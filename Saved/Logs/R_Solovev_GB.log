@@ -1805,3 +1805,69 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.07-12.37.43:500][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2023.03.07-12.37.43:506][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
 [2023.03.07-12.37.43:573][176]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.03.07-13.15.04:966][998]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.03.07-13.15.04:966][998]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.03.07-13.15.06:811][116]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.07-13.15.06:817][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.07-13.15.06:817][116]PIE: New page: PIE session: Lvl_Start_level (7 мар. 2023 г., 21:15:06)
+[2023.03.07-13.15.06:842][116]LogPlayLevel: Creating play world package: /Game/Solovev_R/Level/UEDPIE_0_Lvl_Start_level
+[2023.03.07-13.15.06:848][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005925s)
+[2023.03.07-13.15.06:848][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solovev_R/Level/Lvl_Start_level.Lvl_Start_level to /Game/Solovev_R/Level/UEDPIE_0_Lvl_Start_level.Lvl_Start_level (0.005963s)
+[2023.03.07-13.15.06:848][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.07-13.15.06:849][116]LogAIModule: Creating AISystem for world Lvl_Start_level
+[2023.03.07-13.15.06:849][116]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2023.03.07-13.15.06:858][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.07-13.15.06:859][116]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.07-13.15.06:859][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.07-13.15.06:859][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.07-13.15.06:859][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.07-13.15.06:859][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.07-13.15.06:859][116]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.07-13.15.06:859][116]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.07-13.15.06:859][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.07-13.15.06:859][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.07-13.15.06:860][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.07-13.15.06:860][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.07-13.15.06:860][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.07-13.15.06:862][116]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.07-13.15.06:881][116]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2023.03.07-13.15.06:882][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.07-13.15.06:882][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.07-13.15.06:882][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.07-13.15.06:884][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.03.07-13.15.06:884][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.03.07-13.15.06:885][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.03.07-13.15.06:885][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.03.07-13.15.06:885][116]LogInit: FAudioDevice initialized.
+[2023.03.07-13.15.06:885][116]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_Start_level'.
+[2023.03.07-13.15.06:888][116]LogLoad: Game class is 'MainGM_C'
+[2023.03.07-13.15.06:890][116]LogPhysics: Warning: Scale for /Game/Solovev_R/Level/UEDPIE_0_Lvl_Start_level.Lvl_Start_level:PersistentLevel.StaticMeshActor_53.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=3.250 Y=0.000 Z=0.750
+[2023.03.07-13.15.06:890][116]LogPhysics: Warning: Scale for /Game/Solovev_R/Level/UEDPIE_0_Lvl_Start_level.Lvl_Start_level:PersistentLevel.StaticMeshActor_56.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=3.250 Y=0.000 Z=0.750
+[2023.03.07-13.15.06:892][116]LogWorld: Bringing World /Game/Solovev_R/Level/UEDPIE_0_Lvl_Start_level.Lvl_Start_level up for play (max tick rate 0) at 2023.03.07-17.15.06
+[2023.03.07-13.15.06:892][116]LogWorld: Bringing up level for play took: 0.003605
+[2023.03.07-13.15.06:894][116]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.03.07-13.15.06:900][116]PIE: Server logged in
+[2023.03.07-13.15.06:901][116]PIE: Play in editor total start time 0,084 seconds.
+[2023.03.07-13.15.21:927][534]LogScript: Error: Script Msg: Cannot call AddEventRepeaterSection on a null track
+[2023.03.07-13.15.21:927][534]LogScript: Error: Script call stack:
+	/Game/Solovev_R/Iterraction/Baselamp.Baselamp_C.ExecuteUbergraph_Baselamp
+
+[2023.03.07-13.15.22:262][567]LogScript: Error: Script Msg: Cannot call AddEventRepeaterSection on a null track
+[2023.03.07-13.15.22:262][567]LogScript: Error: Script call stack:
+	/Game/Solovev_R/Iterraction/Baselamp.Baselamp_C.ExecuteUbergraph_Baselamp
+
+[2023.03.07-13.15.22:912][631]LogScript: Error: Script Msg: Cannot call AddEventRepeaterSection on a null track
+[2023.03.07-13.15.22:912][631]LogScript: Error: Script call stack:
+	/Game/Solovev_R/Iterraction/Baselamp.Baselamp_C.ExecuteUbergraph_Baselamp
+
+[2023.03.07-13.15.25:633][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-13.15.25:633][886]LogWorld: BeginTearingDown for /Game/Solovev_R/Level/UEDPIE_0_Lvl_Start_level
+[2023.03.07-13.15.25:633][886]LogWorld: UWorld::CleanupWorld for Lvl_Start_level, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-13.15.25:634][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-13.15.25:641][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.07-13.15.25:645][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-13.15.25:658][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-13.15.25:659][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.07-13.15.25:660][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.07-13.15.25:667][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.03.07-13.15.25:687][887]LogPlayLevel: Display: Destroying online subsystem :Context_9
