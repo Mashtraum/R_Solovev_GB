@@ -1104,3 +1104,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.07-05.22.42:179][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms
 [2023.03.07-05.22.42:182][460]AssetCheck: New page: Asset Save: Lvl_Start_level
 [2023.03.07-05.22.42:182][460]LogContentValidation: Display: Validating /Script/Engine.World /Game/Solovev_R/Maps/Lvl_Start_level.Lvl_Start_level
+[2023.03.07-05.23.38:838][861]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Download/FirstPerson/Maps/FirstPersonMap does not exist, will not scan.
+[2023.03.07-05.23.38:838][861]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Download/ThirdPerson/Maps/ThirdPersonMap does not exist, will not scan.
+[2023.03.07-05.23.43:342][945]LogEditorViewport: Clicking Background
+[2023.03.07-05.23.48:917][610]SourceControl: Error: warning: could not open directory 'Content/Solovev_R/': No such file or directory
+[2023.03.07-05.23.52:387][ 18]SourceControl: Error: warning: could not open directory 'Content/Solovev_R/': No such file or directory
+[2023.03.07-05.23.59:535][822]SourceControl: Error: warning: could not open directory 'Content/Solovev_R/': No such file or directory
+[2023.03.07-05.24.09:713][ 45]LogDerivedDataCache: C:/Users/zeint/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.514 and deleted 0 files with total size 0 MiB. Scanned 18990 files in 18270 folders with total size 1288 MiB.
