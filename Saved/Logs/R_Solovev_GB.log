@@ -2609,3 +2609,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.07-12.11.43:387][706]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Download/StarterContent/Materials/Floor_pulse.Floor_pulse
 [2023.03.07-12.11.43:396][707]LogAutomationController: Ignoring very large delta of 2.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.03.07-12.11.43:528][713]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineFonts/RobotoDistanceField.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineFonts/RobotoDistanceField.uasset' is outside repository at 'Q:/Учеба/R_Solovev_GB'
+[2023.03.07-12.12.20:318][972]LogDerivedDataCache: C:/Users/zeint/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:41.115 and deleted 0 files with total size 0 MiB. Scanned 21419 files in 20558 folders with total size 2262 MiB.
