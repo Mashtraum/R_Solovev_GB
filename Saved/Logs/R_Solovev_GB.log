@@ -1070,3 +1070,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.07-04.22.30:938][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.03.07-04.22.34:281][278]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.03.07-04.24.53:162][104]LogDerivedDataCache: C:/Users/zeint/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.605 and deleted 0 files with total size 0 MiB. Scanned 18316 files in 17666 folders with total size 1284 MiB.
+[2023.03.07-04.28.46:231][764]LogSlate: Window 'Source Control Login' being destroyed
