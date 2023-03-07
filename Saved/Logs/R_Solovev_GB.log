@@ -2569,3 +2569,43 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.07-12.09.42:440][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 24.3 sec)
 [2023.03.07-12.09.42:445][953]AssetCheck: New page: Asset Save: Lvl_Start_level
 [2023.03.07-12.09.42:445][953]LogContentValidation: Display: Validating /Script/Engine.World /Game/Solovev_R/Level/Lvl_Start_level.Lvl_Start_level
+[2023.03.07-12.11.38:857][580]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.03.07-12.11.38:857][580]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.03.07-12.11.41:309][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.03.07-12.11.42:732][706]LogSlate: Window 'Save Content' being destroyed
+[2023.03.07-12.11.42:882][706]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineFonts/RobotoDistanceField.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineFonts/RobotoDistanceField.uasset' is outside repository at 'Q:/Учеба/R_Solovev_GB'
+[2023.03.07-12.11.42:903][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.07-12.11.42:960][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/StarterContent/Materials/Floor_pulse" FILE="Q:/Учеба/R_Solovev_GB/Content/Download/StarterContent/Materials/Floor_pulse.uasset" SILENT=true
+[2023.03.07-12.11.42:962][706]LogSavePackage: Moving output files for package: /Game/Download/StarterContent/Materials/Floor_pulse
+[2023.03.07-12.11.42:962][706]LogSavePackage: Moving 'Q:/Учеба/R_Solovev_GB/Saved/Floor_pulse6424D38542C15A4D6E3C9FB0B2E53C93.tmp' to 'Q:/Учеба/R_Solovev_GB/Content/Download/StarterContent/Materials/Floor_pulse.uasset'
+[2023.03.07-12.11.42:971][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/StarterContent/Materials/M_Brick_Clay_New_Inst" FILE="Q:/Учеба/R_Solovev_GB/Content/Download/StarterContent/Materials/M_Brick_Clay_New_Inst.uasset" SILENT=true
+[2023.03.07-12.11.43:003][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.07-12.11.43:038][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.07-12.11.43:040][706]LogSavePackage: Moving output files for package: /Game/Download/StarterContent/Materials/M_Brick_Clay_New_Inst
+[2023.03.07-12.11.43:040][706]LogSavePackage: Moving 'Q:/Учеба/R_Solovev_GB/Saved/M_Brick_Clay_New_InstC8700C5C4C85C43DCCACF9905FE7A4AE.tmp' to 'Q:/Учеба/R_Solovev_GB/Content/Download/StarterContent/Materials/M_Brick_Clay_New_Inst.uasset'
+[2023.03.07-12.11.43:050][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/StarterContent/Materials/M_Rock_Slate_Inst" FILE="Q:/Учеба/R_Solovev_GB/Content/Download/StarterContent/Materials/M_Rock_Slate_Inst.uasset" SILENT=true
+[2023.03.07-12.11.43:052][706]LogSavePackage: Moving output files for package: /Game/Download/StarterContent/Materials/M_Rock_Slate_Inst
+[2023.03.07-12.11.43:052][706]LogSavePackage: Moving 'Q:/Учеба/R_Solovev_GB/Saved/M_Rock_Slate_Inst5DF165994BDD61FD625BDB8381D7127F.tmp' to 'Q:/Учеба/R_Solovev_GB/Content/Download/StarterContent/Materials/M_Rock_Slate_Inst.uasset'
+[2023.03.07-12.11.43:054][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineFonts/RobotoDistanceField" FILE="../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" SILENT=true
+[2023.03.07-12.11.43:059][706]LogSavePackage: Moving output files for package: /Engine/EngineFonts/RobotoDistanceField
+[2023.03.07-12.11.43:059][706]LogSavePackage: Moving 'Q:/Учеба/R_Solovev_GB/Saved/RobotoDistanceField1694F2CC45C66730A674CCBCACC1ABEE.tmp' to '../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset'
+[2023.03.07-12.11.43:075][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/StarterContent/Materials/Wall_door_pulse" FILE="Q:/Учеба/R_Solovev_GB/Content/Download/StarterContent/Materials/Wall_door_pulse.uasset" SILENT=true
+[2023.03.07-12.11.43:076][706]LogSavePackage: Moving output files for package: /Game/Download/StarterContent/Materials/Wall_door_pulse
+[2023.03.07-12.11.43:077][706]LogSavePackage: Moving 'Q:/Учеба/R_Solovev_GB/Saved/Wall_door_pulseB91E453B416E2435D1EE1683122AFEAD.tmp' to 'Q:/Учеба/R_Solovev_GB/Content/Download/StarterContent/Materials/Wall_door_pulse.uasset'
+[2023.03.07-12.11.43:088][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/StarterContent/Materials/Wall_door_rock" FILE="Q:/Учеба/R_Solovev_GB/Content/Download/StarterContent/Materials/Wall_door_rock.uasset" SILENT=true
+[2023.03.07-12.11.43:089][706]LogSavePackage: Moving output files for package: /Game/Download/StarterContent/Materials/Wall_door_rock
+[2023.03.07-12.11.43:090][706]LogSavePackage: Moving 'Q:/Учеба/R_Solovev_GB/Saved/Wall_door_rockDBC87B4C4AEC69BCB9713A85AD8CBECB.tmp' to 'Q:/Учеба/R_Solovev_GB/Content/Download/StarterContent/Materials/Wall_door_rock.uasset'
+[2023.03.07-12.11.43:101][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/StarterContent/Materials/Wall_pulse" FILE="Q:/Учеба/R_Solovev_GB/Content/Download/StarterContent/Materials/Wall_pulse.uasset" SILENT=true
+[2023.03.07-12.11.43:102][706]LogSavePackage: Moving output files for package: /Game/Download/StarterContent/Materials/Wall_pulse
+[2023.03.07-12.11.43:103][706]LogSavePackage: Moving 'Q:/Учеба/R_Solovev_GB/Saved/Wall_pulse805F30F64EFC246D60FA92AF90EF8775.tmp' to 'Q:/Учеба/R_Solovev_GB/Content/Download/StarterContent/Materials/Wall_pulse.uasset'
+[2023.03.07-12.11.43:374][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 470 ms (total: 24.8 sec)
+[2023.03.07-12.11.43:387][706]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.07-12.11.43:387][706]LogContentValidation: Display: Validating /Script/Engine.Font /Engine/EngineFonts/RobotoDistanceField.RobotoDistanceField
+[2023.03.07-12.11.43:387][706]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Download/StarterContent/Materials/M_Brick_Clay_New_Inst.M_Brick_Clay_New_Inst
+[2023.03.07-12.11.43:387][706]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Download/StarterContent/Materials/Wall_door_rock.Wall_door_rock
+[2023.03.07-12.11.43:387][706]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Download/StarterContent/Materials/M_Rock_Slate_Inst.M_Rock_Slate_Inst
+[2023.03.07-12.11.43:387][706]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Download/StarterContent/Materials/Wall_door_pulse.Wall_door_pulse
+[2023.03.07-12.11.43:387][706]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Download/StarterContent/Materials/Wall_pulse.Wall_pulse
+[2023.03.07-12.11.43:387][706]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Download/StarterContent/Materials/Floor_pulse.Floor_pulse
+[2023.03.07-12.11.43:396][707]LogAutomationController: Ignoring very large delta of 2.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.03.07-12.11.43:528][713]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineFonts/RobotoDistanceField.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineFonts/RobotoDistanceField.uasset' is outside repository at 'Q:/Учеба/R_Solovev_GB'
